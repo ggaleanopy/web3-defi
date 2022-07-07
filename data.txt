@@ -1,4 +1,0 @@
-Keys
-----
-Goerli
-Exchange Contract Address: 0x6F8153a07fbe40a3Fb96a6275FDB2a3ed793698d
