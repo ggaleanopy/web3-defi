@@ -324,7 +324,7 @@ export default function Home() {
     // If wallet is not connected, return a button which allows them to connect their wllet
     if (!walletConnected) {
       return (
-        <button onClick={connectWallet} className={styles.button_circle}>
+        <button onClick={connectWallet} className={styles.button2_circle}>
           Connect your wallet
         </button>
       );
